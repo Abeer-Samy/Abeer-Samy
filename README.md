@@ -1,11 +1,34 @@
 <h1 align="center">Hi 👋, I'm Abeer</h1>
 <h3 align="center">A Laravel/PHP web-developer with +3 year experience, Opencart Expert.</h3>
 
+
+A PHP/MySQL developer with +3 year of experience, for last 2 year - focused on
+Laravel framework and building CRM/management web-systems.
+
+## I little bit about me
+- 🔭 I’m currently working on [Hiwar Center Project | Laravel/PHP](https://github.com/Abeer-Samy/Hiwar-Center/tree/master)
+
+  
+My main skills:
+- PHP. Html5, CSS, Bootstrap, Opencart
+
+🌱 I have done the entire graduation project in Laravel/PHP, so I know the full picture of web-project, both from tech and business sides.
+Reliable, responsible, serious.
+
+💬 I'm extremely reliable, have ability to respond within 24 hours and have positive no-excuse
+attitude and also friendly attitude.
+⚡ Ready for interegting and hard work.
+
+👨‍💻 I will take personal charge of your projects unti you are completely satisfied with me result.
+Furthermore, I will always provide a kind and courteous service to my clients.
+
+✍️  In my free time, I enjoy photography, cooking and spending time with family.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeer-samy&label=Profile%20views&color=0e75b6&style=flat" alt="abeer-samy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@abeerasamy77" target="blank"><img src="https://img.shields.io/twitter/follow/@abeerasamy77?logo=twitter&style=for-the-badge" alt="@abeerasamy77" /></a> </p>
 
-- 🔭 I’m currently working on [Hiwar Center Project|Laravel/PHP](https://github.com/Abeer-Samy/Hiwar-Center/tree/master)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
