@@ -15,6 +15,7 @@ I'm hard working, communicative, self-motivated and responsible person.
 👨‍💻 I will take personal charge of your projects unti you are completely satisfied with me result. Furthermore, I will always provide a kind and courteous service to my clients.
 
 My Area of Expertise
+
 ✅ Database: MySQL, MariaDB
 ✅PHP (Laravel framework)
 ✅ Frontend: JavaScript, HTML5, CSS3 + Bootstrap.
