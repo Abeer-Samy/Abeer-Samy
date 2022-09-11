@@ -2,27 +2,35 @@
 <h3 align="center">A Laravel/PHP web-developer with +3 year experience, Opencart Expert.</h3>
 
 
-A PHP/MySQL developer with +3 year of experience, for last 2 year - focused on
-Laravel framework and building CRM/management web-systems.
+A PHP/MySQL developer focused on Laravel framework and building CRM/management web-systems. I am a responsible, punctual and mindful professional.. 
 
-## I little bit about me
-- 🔭 I’m currently working on [Hiwar Center Project | Laravel/PHP](https://github.com/Abeer-Samy/Hiwar-Center/tree/master)
+🌱 I have done several project in Laravel/PHP, so I know the full picture of web-project, both from tech and business sides. Reliable, responsible, serious.
+I am looking for a interesting projects (short term/long term) to apply my knowledge and skills while building up and growing your business.
 
-  
-My main skills:
-- PHP. Html5, CSS, Bootstrap, Opencart
+To improve my skills I'm always interested in difficult and interesting work.
+I'm hard working, communicative, self-motivated and responsible person.
 
-🌱 I have done the entire graduation project in Laravel/PHP, so I know the full picture of web-project, both from tech and business sides.
-Reliable, responsible, serious.
+💬 I'm extremely reliable, have ability to respond within 24 hours and have positive no-excuse attitude and also friendly attitude.
 
-💬 I'm extremely reliable, have ability to respond within 24 hours and have positive no-excuse
-attitude and also friendly attitude.
-⚡ Ready for interegting and hard work.
+👨‍💻 I will take personal charge of your projects unti you are completely satisfied with me result. Furthermore, I will always provide a kind and courteous service to my clients.
 
-👨‍💻 I will take personal charge of your projects unti you are completely satisfied with me result.
-Furthermore, I will always provide a kind and courteous service to my clients.
+My Area of Expertise
+✅ Database: MySQL, MariaDB
+✅PHP (Laravel framework)
+✅ Frontend: JavaScript, HTML5, CSS3 + Bootstrap.
+✅ Java (I'm using OOP, Design Patters)
+✅ I have experience with Opencart
+✅ Git (GitHub)
 
-✍️  In my free time, I enjoy photography, cooking and spending time with family.
+What do you get when working with me
+✅ Top Quality Code
+✅ Fast Execution
+✅ Transparency in development process
+✅ Reliable communication
+✅ Solutions that are tailor made according to your requirements
+✅ Ready for interegting and hard work.
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeer-samy&label=Profile%20views&color=0e75b6&style=flat" alt="abeer-samy" /> </p>
