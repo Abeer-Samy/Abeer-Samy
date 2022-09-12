@@ -70,8 +70,36 @@ Password: 0595771431<br>
 
 <h3> <a href="https://github.com/Abeer-Samy/Hiwar-Center/tree/master">HEWAR CENTER SYSTEM</a></h3>
 <p>In this project I developed an Online Center for Studies and Research system using the PHP Lravel framework</p>
-<h4>This project contain many of features like</h4>
+<p>The proposed system aims to develop a web application for the
+management and follow-up of Hewar center for Studies and Research, which is
+geographically located in Gaza City. The application helps to save and protect the
+center’s data from the risk of loss or damage. It also contributes to creating a link
+between researchers interested in Palestinian, Israeli and Arab studies and
+research, in addition to make it easy to access studies and researches without
+wasting time and effort. That done by building a unified database that collects the
+center's data in one place.</p>
 
+<p>The database of the web application of the proposed project consists of 22
+tables divided by the functions of the system, and the web application consists of a
+number of pages divided as follows: website pages which are the 27 pages that
+appear to the visitor, and control panel pages which are the 14 pages that appear
+to the system manager.</p>
+
+<h4>Skills </h4>
+<ul>
+<li> HTML, CSS, JavaScript, Bootstrap, PHP, SQL, Laravel</li>
+</ul>
+
+
+<h3> <a href="https://github.com/Abeer-Samy/Opencart-Resturant/tree/master">YamiFood Resturant</a></h3>
+<p>In this project I developed an Online Group of Resturants system using the Opencart platform</p>
+<p>This project contains many local restaurants
+This site enables the user to order his favorite meal from the proposed restaurants at the time he wants and with great service and in record time, which saves effort and time for the user.</p>
+
+<h4>Skills </h4>
+<ul>
+<li> HTML, CSS, JavaScript, Opencate, SQL</li>
+</ul>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeer-samy&label=Profile%20views&color=0e75b6&style=flat" alt="abeer-samy" /> </p>
