@@ -32,7 +32,42 @@ What do you get when working with me: <br>
 
 ## projects:
 <h3> <a href="http://secret-earth-20637.herokuapp.com">MEDICAL CONSULTATION SYSTEM</a></h3>
+<p>Online Medical Consultation system</p>
+<p>In this project I developed an Online Medical Consultation system using the PHP Lravel framework</p>
+<h4>This project contain many of features like</h4>
+<ul>
+<li>Frontend Website for visitor have (Home, About us, Services, Login, Register)  
+<li>Register, logIn and logout users</li>
+  <li>Admin Dashboard with three role:</li>
+ <ol>
+ <li> Admin:</li>
+    Have several feature like:<br>
+    Update Profile, Register Admin, Register Doctor, Search Patient, Search Doctor, Approve Patient Request, Approve Upload Request.
+   <li> Doctor:</li>
+    Have several feature like:<br>
+ Show My Appointmen, Update Profile, Create Disease, Show Disease
+<li> Patient</li>      
+      Have several feature like:<br>
+  Identify Disease, Search Doctor, Show My Appointments, Update My Profile, Upload Prescription And Report, Show My Prescription And Report, Search Disease
+  </ol>
 
+</ul>
+
+#### Info to login:
+##### As admin 
+Email: al@gmail.com<br>
+Password: password<br>
+##### As doctor 
+Email: wael@gmail.com<br>
+Password: 0595771431<br>
+##### As Patient 
+Email: abeer@gmail.com<br>
+Password: 0595771431<br>
+
+<h4>Skills </h4>
+<ul>
+<li> HTML, CSS, JavaScript, Bootstrap, PHP, , SQL, Laravel</li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeer-samy&label=Profile%20views&color=0e75b6&style=flat" alt="abeer-samy" /> </p>
 
