@@ -3,7 +3,7 @@
 
 
 A PHP/MySQL developer focused on Laravel framework and building CRM/management web-systems. I am a responsible, punctual and mindful professional.. 
-
+<p align="left">
 🌱 I have done several project in Laravel/PHP, so I know the full picture of web-project, both from tech and business sides. Reliable, responsible, serious.
 I am looking for a interesting projects (short term/long term) to apply my knowledge and skills while building up and growing your business.
 
@@ -14,24 +14,24 @@ I'm hard working, communicative, self-motivated and responsible person.
 
 👨‍💻 I will take personal charge of your projects unti you are completely satisfied with me result. Furthermore, I will always provide a kind and courteous service to my clients.
 
-My Area of Expertise
+My Area of Expertise: <br>
+✅ Database: MySQL, MariaDB <br>
+✅PHP (Laravel framework) <br>
+✅ Frontend: JavaScript, HTML5, CSS3 + Bootstrap. <br>
+✅ Java (I'm using OOP, Design Patters) <br>
+✅ I have experience with Opencart <br>
+✅ Git (GitHub) <br>
 
-✅ Database: MySQL, MariaDB
-✅PHP (Laravel framework)
-✅ Frontend: JavaScript, HTML5, CSS3 + Bootstrap.
-✅ Java (I'm using OOP, Design Patters)
-✅ I have experience with Opencart
-✅ Git (GitHub)
+What do you get when working with me: <br>
+✅ Top Quality Code <br>
+✅ Fast Execution <br>
+✅ Transparency in development process <br>
+✅ Reliable communication <br>
+✅ Solutions that are tailor made according to your requirements <br>
+✅ Ready for interegting and hard work. <br>
 
-What do you get when working with me
-✅ Top Quality Code
-✅ Fast Execution
-✅ Transparency in development process
-✅ Reliable communication
-✅ Solutions that are tailor made according to your requirements
-✅ Ready for interegting and hard work.
-
-
+## projects:
+<h3> <a href="http://secret-earth-20637.herokuapp.com">MEDICAL CONSULTATION SYSTEM</a></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeer-samy&label=Profile%20views&color=0e75b6&style=flat" alt="abeer-samy" /> </p>
@@ -45,7 +45,6 @@ What do you get when working with me
 <a href="https://fb.com/abeer samy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abeer samy" height="30" width="40" /></a>
 <a href="https://instagram.com/abeer_samy7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abeer_samy7" height="30" width="40" /></a>
 
-{http://secret-earth-20637.herokuapp.com}
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
